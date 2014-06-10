@@ -1,0 +1,3 @@
+var doAlert = function(){
+alert('My First Sample');
+}
